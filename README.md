@@ -1,16 +1,16 @@
-### Hi there 👋
+[![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
 
-<!--
-**mastrix/mastrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Max 👋
 
-Here are some ideas to get you started:
+## What I Do?
+- Trying to build fast, accessible, and secure web apps
+- I like to refactor and simplify codebases
+- Passioned about optimizing performance without sacrificing clarity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastrix&show_icons=true&theme=transparent)
+
+[![Made in Ukraine](https://img.shields.io/badge/made_in-Ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
+
+Donate to [Come Back Alive (savelife.in.ua)](https://savelife.in.ua/en/) — one of Ukraine’s most trusted defense and veteran support foundations.
+
+You can also donate to Rusoriz via [Monobank Jar](https://send.monobank.ua/jar/2JbpBYkhMv).
