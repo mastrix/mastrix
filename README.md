@@ -1,10 +1,6 @@
 <h1 align="center">Max</h1>
 
 <p align="center">
-  <strong>Senior Frontend / Software Engineer</strong>
-</p>
-
-<p align="center">
   <samp>Product systems, not decorative code.</samp><br/>
   <samp>frontend architecture · typed contracts · access-aware workflows · release discipline</samp>
 </p>
