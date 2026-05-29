@@ -19,14 +19,13 @@
 
 - Frontend architecture for enterprise product platforms
 - Typed frontend/backend integration with generated clients and explicit API contracts
-- Access-aware workflows: RBAC, authenticated UI states, permission-driven behavior
 - Data-heavy product surfaces: complex forms, grids, validation, file-processing flows
 - Monorepos, shared packages, CI/CD, quality gates, release readiness
-- Refactoring and modernization without freezing active product delivery
+- Refactoring and modernization without freezing product delivery
 
 ## Current engineering interests
 
-These are interests and direction, not a claim that every item is equal to production ownership.
+These are interests and direction, not a claim that every item is equal to production ownership
 
 ```txt
 Architecture
